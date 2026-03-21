@@ -1,0 +1,15 @@
+1.0	ROOT	S
+1.0	S	NP VP
+0.4	NP	DT NN
+0.4	NP	DT2 NN
+0.2	NP	NP PP
+1.0	PP	IN NP
+0.6	VP	VBD NP
+0.4	VP	VP PP
+1.0	DT	the
+1.0	DT2	a
+0.334	NN	man
+0.333	NN	soldier
+0.333	NN	gun
+1.0	VBD	shot
+1.0	IN	with
